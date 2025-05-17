@@ -1,0 +1,135 @@
+ [
+      {
+        "playerId": 1,
+        "name": "John Smith",
+        "country": "Australia",
+        "image": "https://i.ibb.co.com/QJLVDGR/0-Getty-Images-1713048001.webp",
+        "role": "Batsman",
+        "rating":"9.8",
+        "battingType": "Right-hand bat",
+        "bowlingType": "None",
+        "biddingPrice": 1.2
+      },
+      {
+        "playerId": 2,
+        "name": "Rahul Sharma",
+        "country": "India",
+        "image": "https://i.ibb.co.com/6FjZw0p/Rahul-Sharma.jpg",
+        "role": "Bowler",
+        "rating":"7.7",
+        "battingType": "Left-hand bat",
+        "bowlingType": "Right-arm fast",
+        "biddingPrice": 4
+      },
+      {
+        "playerId": 3,
+        "name": "David Lee",
+        "country": "England",
+        "image": "https://i.ibb.co.com/hHbZjtt/544128-22578913-2560-1440.jpg",
+        "role": "All-rounder",
+        "rating":"9.8",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm medium",
+        "biddingPrice": 1.5
+      },
+      {
+        "playerId": 4,
+        "name": "Carlos Mendes",
+        "country": "South Africa",
+        "image": "https://i.ibb.co.com/5xzQ1bQ/hq720.jpg",
+        "role": "Bowler",
+        "rating":"8.0",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Left-arm spin",
+        "biddingPrice": 1
+      },
+      {
+        "playerId": 5,
+        "name": "Mohammad Khan",
+        "country": "Pakistan",
+        "image": "https://i.ibb.co.com/V3Z0G07/299980.webp",
+        "role": "Batsman",
+        "rating":"8.8",
+        "battingType": "Left-hand bat",
+        "bowlingType": "None",
+        "biddingPrice": 1.5
+      },
+      {
+        "playerId": 6,
+        "name": "Chris Johnson",
+        "country": "New Zealand",
+        "image": "https://i.ibb.co.com/FqKytDq/images.jpg",
+        "role": "All-rounder",
+        "rating":"9.5",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm fast-medium",
+        "biddingPrice": 3
+      },
+      {
+        "playerId": 7,
+        "name": "Akira Tanaka",
+        "country": "Japan",
+        "image": "https://i.ibb.co.com/RvH3v5f/images-1.jpg",
+        "role": "Batsman",
+        "rating":"7.8",
+        "battingType": "Right-hand bat",
+        "bowlingType": "None",
+        "biddingPrice": 5
+      },
+      {
+        "playerId": 8,
+        "name": "William Jones",
+        "country": "West Indies",
+        "image": "https://i.ibb.co.com/bdhYMdC/west-indies-shai-hope-225646620-16x9-0.jpg",
+        "role": "Bowler",
+        "rating":"8.0",
+        "battingType": "Left-hand bat",
+        "bowlingType": "Right-arm off-spin",
+        "biddingPrice": 1
+      },
+      {
+        "playerId": 9,
+        "name": "Naveen Patel",
+        "country": "Sri Lanka",
+        "image": "https://i.ibb.co.com/NNP0snR/images-2.jpg",
+        "role": "Bowler",
+        "rating":"7.8",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Left-arm fast",
+        "biddingPrice": 2
+      },
+      {
+        "playerId": 10,
+        "name": "Ethan Williams",
+        "country": "England",
+        "image": "https://i.ibb.co.com/d7JMzcw/images-3.jpg",
+        "role": "Wicketkeeper",
+        "rating":"7.6",
+        "battingType": "Left-hand bat",
+        "bowlingType": "None",
+        "biddingPrice": 3
+      },
+      {
+        "playerId": 11,
+        "name": "Rajesh Kumar",
+        "country": "India",
+        "image": "https://i.ibb.co.com/5XDJVtC/1698213340010-p-NW5j-F0l97-Y6.jpg",
+        "role": "All-rounder",
+        "rating":"9.8",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm leg-spin",
+        "biddingPrice": 10
+      },
+      {
+        "playerId": 12,
+        "name": "Sakib Al Hasan",
+        "country": "Bangladesh",
+        "image": "https://i.ibb.co.com/J7Hz6x6/download.jpg",
+        "role": "Bowler",
+        "rating":"8.5",
+        "battingType": "Left-hand bat",
+        "bowlingType": "Left-arm medium",
+        "biddingPrice": 2
+      }
+    ]
+  
